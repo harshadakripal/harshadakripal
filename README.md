@@ -1,6 +1,13 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a Full-Stack Developer with experience in React.js, JavaScript, PHP, and API development.<br>Currently, I am learning Python, AI, and AWS while pursuing a Software Architecture course.<br>I am passionate about building scalable, efficient, and user-centric applications.<br>I am looking for technical guidance and mentorship to enhance my AI and cloud skills.<br>I enjoy experimenting with new technologies and solving challenging problems.<br>Fun fact: I love exploring automation projects and integrating AI into practical solutions.<br>I am open to collaboration on interesting projects in AI, Python, and cloud development.<br>Always eager to learn, grow, and contribute to impactful, real-world software solutions.
+🚀 MS Applied Computer Science graduate (Dec 2025) | Ex-Full-Stack Developer
+💻 Currently focusing on Python, AI, and AWS (Associate Software Architecture course)
+🌐 Passionate about building scalable web apps, cloud solutions, and DevOps pipelines
+🎯 Career goal: Frontend Software Developer, Cloud Engineer, Cloud DevOps, Associate Cloud Developer
+🤝 Open to technical guidance, mentorship, and collaboration on projects
+🛠️ Actively learning AI frameworks, Python automation, and cloud architecture best practices
+🎉 Fun fact: I love solving challenging problems and turning ideas into interactive apps
+📫 Always happy to connect, share knowledge, and work on innovative projects
 
 
 ## 🌐 Socials:
